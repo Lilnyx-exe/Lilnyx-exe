@@ -108,35 +108,33 @@ print(me.current_mission())
 </div>
 
 
-## `contribution-grid`
+
+## `// BLOODLINE.exe`
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/CONTRIBUTION-SNAKE-FF1744?style=for-the-badge&labelColor=080808&logo=github" alt="Contribution Snake" />
+<img
+  src="https://img.shields.io/badge/LILNYX.exe-BLOODLINE-FF1744?style=for-the-badge&labelColor=050505"
+  alt="Lilnyx Bloodline"
+/>
 
 <br/><br/>
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Lilnyx-exe/Lilnyx-exe/output/snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Lilnyx-exe/Lilnyx-exe/output/snake.svg"
-  />
-  <img
-    alt="Lilnyx.exe neon red contribution snake"
-    src="https://raw.githubusercontent.com/Lilnyx-exe/Lilnyx-exe/output/snake.svg"
-    width="100%"
-  />
-</picture>
+<img
+  src="https://raw.githubusercontent.com/Lilnyx-exe/Lilnyx-exe/output/snake-dark.svg"
+  alt="Lilnyx Neon Red Snake Animation"
+  width="100%"
+/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/SYSTEM-ONLINE-FF1744?style=flat-square&labelColor=080808" alt="System online" />
+<img
+  src="https://img.shields.io/badge/STATUS-DEVOURING%20CONTRIBUTIONS-FF1744?style=flat-square&labelColor=050505"
+  alt="Snake status"
+/>
 
 </div>
+
 
 
 ## `mindset`
