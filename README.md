@@ -107,13 +107,37 @@ print(me.current_mission())
 
 </div>
 
+
 ## `contribution-grid`
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Lilnyx-exe/Lilnyx-exe/output/snake.svg" alt="Animated GitHub contribution snake" width="100%" />
+<img src="https://img.shields.io/badge/CONTRIBUTION-SNAKE-FF1744?style=for-the-badge&labelColor=080808&logo=github" alt="Contribution Snake" />
+
+<br/><br/>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Lilnyx-exe/Lilnyx-exe/output/snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Lilnyx-exe/Lilnyx-exe/output/snake.svg"
+  />
+  <img
+    alt="Lilnyx.exe neon red contribution snake"
+    src="https://raw.githubusercontent.com/Lilnyx-exe/Lilnyx-exe/output/snake.svg"
+    width="100%"
+  />
+</picture>
+
+<br/>
+
+<img src="https://img.shields.io/badge/SYSTEM-ONLINE-FF1744?style=flat-square&labelColor=080808" alt="System online" />
 
 </div>
+
 
 ## `mindset`
 
