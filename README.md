@@ -139,22 +139,22 @@ print(me.current_mission())
 
 ---
 
-## 🕹️ `// CYBER_ARCADE_ZONE.exe`
+## 🕹️ `// PACMAN_ARCADE.exe`
 
 <div align="center">
 
 <img
-  src="https://img.shields.io/badge/LILNYX.exe-CYBER%20ARCADE%20ARENA-FF1744?style=for-the-badge&labelColor=050505"
-  alt="Lilnyx Cyber Arcade"
+  src="https://img.shields.io/badge/LILNYX.exe-PAC--MAN%20CONTRIBUTION%20MAZE-FF1744?style=for-the-badge&labelColor=050505"
+  alt="Lilnyx Pacman Arcade"
 />
 
 <p align="center">
   <img src="https://img.shields.io/badge/COINS-UNLIMITED-ff1744?style=flat-square&labelColor=050505" />
   <img src="https://img.shields.io/badge/STAGE-SRI%20LANKA-ff1744?style=flat-square&labelColor=050505" />
-  <img src="https://img.shields.io/badge/DIFFICULTY-HARDCORE-ff1744?style=flat-square&labelColor=050505" />
+  <img src="https://img.shields.io/badge/PAC--MAN-HACKING%20COMMITS-ff1744?style=flat-square&labelColor=050505" />
 </p>
 
-<!-- Game 01: Pac-Man Devouring Contributions -->
+<!-- Pac-Man Devouring Contributions -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lilnyx-exe/Lilnyx-exe/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lilnyx-exe/Lilnyx-exe/output/pacman-contribution-graph.svg">
@@ -163,18 +163,9 @@ print(me.current_mission())
 
 <br/><br/>
 
-<!-- Game 02: Neon Blood-Red Snake Game -->
 <img
-  src="https://raw.githubusercontent.com/Lilnyx-exe/Lilnyx-exe/output/snake-dark.svg"
-  alt="Lilnyx Neon Red Snake Animation"
-  width="100%"
-/>
-
-<br/>
-
-<img
-  src="https://img.shields.io/badge/STATUS-ARCADE%20ENGINES%20OVERCLOCKED-FF1744?style=flat-square&labelColor=050505"
-  alt="Arcade status"
+  src="https://img.shields.io/badge/STATUS-PAC--MAN%20DEVOURING%20COMMITS-FF1744?style=flat-square&labelColor=050505"
+  alt="Pacman status"
 />
 
 </div>
