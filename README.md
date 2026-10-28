@@ -1,17 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:8B0000,100:FF0000&height=220&section=header&text=LILNYX.exe&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=THINK%20DARK.%20CODE%20SMART.%20STAY%20UNSEEN.&descAlignY=60&descSize=16" width="100%" />
+<!-- ================= CYBER HACKER ANIMATED RED HEADER ================= -->
+<img src="./header_hacker.svg" width="100%" alt="LILNYX.exe Cyber Hacker Header" />
 
 <a href="https://github.com/Lilnyx-exe">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=800&color=FF3030&center=true&vCenter=true&width=700&lines=Initializing+Lilnyx.exe...;Cybersecurity+Student+%F0%9F%94%90;Python+Developer+%F0%9F%90%8D;Learning+Offensive+Security+%F0%9F%92%80;Think+Like+An+Attacker.+Defend+Like+A+Pro." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=800&color=FF3030&center=true&vCenter=true&width=750&lines=Initializing+Lilnyx.exe...;Full-Stack+Developer+%7C+Cybersecurity+Student+%F0%9F%94%90;Architecting+Modern+Web+Apps+%26+Secure+Systems+%F0%9F%92%BB;Python+Developer+%F0%9F%90%8D+%7C+Offensive+Security+%F0%9F%92%80;Think+Like+An+Attacker.+Defend+Like+A+Pro." alt="Typing SVG" />
 </a>
 
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-Lilnyx--exe-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lilnyx-exe)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Lilnyx666-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/)
+[![Full-Stack Dev](https://img.shields.io/badge/Full--Stack-Developer-8B0000?style=for-the-badge&logo=react&logoColor=white)](https://github.com/Lilnyx-exe)
 [![Python](https://img.shields.io/badge/Python-Developer-111111?style=for-the-badge&logo=python&logoColor=ff3030)](https://www.python.org/)
 [![Security](https://img.shields.io/badge/Cybersecurity-Learner-8B0000?style=for-the-badge&logo=kalilinux&logoColor=white)](https://github.com/Lilnyx-exe)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Lilnyx666-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/)
 
 </div>
 
@@ -23,38 +25,48 @@
 class Lilnyx:
     def __init__(self):
         self.alias = "Lilnyx"
-        self.role = "Cybersecurity Student & Developer"
-        self.team = "Thinking Community"
+        self.role = "Full-Stack Developer & Cybersecurity Enthusiast"
+        self.team = "Thinking Team"
         self.location = "Sri Lanka"
 
+        self.stack = {
+            "frontend": ["HTML5", "CSS3", "JavaScript", "React.js"],
+            "backend": ["Python", "Node.js", "REST APIs", "Flask/FastAPI"],
+            "security": ["Penetration Testing", "Web App Security", "DDoS Mitigation"]
+        }
+
         self.interests = [
-            "Ethical Hacking",
-            "Web Application Security",
-            "Python Development",
-            "DDoS Mitigation",
-            "Botnet Defense",
-            "CTF Challenges"
+            "Full-Stack Web Architecture",
+            "Ethical Hacking & Red Teaming",
+            "Web Application Security & OWASP Top 10",
+            "Python Automation & Exploit Development",
+            "Botnet Defense & Network Forensics",
+            "CTF Challenges & Security Research"
         ]
 
         self.mindset = "Learn. Build. Break. Secure."
 
     def current_mission(self):
-        return "Building smarter security tools."
+        return "Engineering bulletproof full-stack apps & smarter security tools."
 
 me = Lilnyx()
 print(me.current_mission())
 ```
 
-> 🩸 Exploring the world of cybersecurity, building useful tools, solving challenges, and learning how to make systems more secure.
+> 🩸 **Full-Stack Developer** by creation, **Cybersecurity Enthusiast** by passion. Bridging modern, high-performance web development with defensive and offensive security research to engineer bulletproof digital architectures.
+
+---
 
 ## `current-missions`
 
--  Learn ethical hacking and penetration testing.
--  Understand web vulnerabilities and web application security.
--  Build Python tools for automation and security research.
--  Practice hands-on labs and CTF challenges on TryHackMe.
--  Explore defensive security, threat detection, and mitigation.
--  Improve my coding, problem-solving, and security skills every day.
+- 🚀 Build scalable, responsive Full-Stack applications with clean code architecture.
+- 🛡️ Learn ethical hacking, red teaming, and hands-on penetration testing.
+- 🔍 Master web vulnerabilities, API security, and secure coding standards.
+- 🐍 Develop custom Python tools for security automation, scanning, and intelligence.
+- ⚔️ Practice hands-on labs and CTF challenges on TryHackMe.
+- ⚡ Improve full-stack software engineering and problem-solving skills every single day.
+
+---
 
 ## `tryhackme`
 
@@ -79,47 +91,79 @@ print(me.current_mission())
 
 <sub>TryHackMe figures above reflect the profile screenshot and may change. The badges are visual labels, not a live stats feed.</sub>
 
+---
+
 ## `arsenal`
 
 <div align="center">
 
-### Languages & Development
+### Full-Stack & Core Languages
 
-<img src="https://skillicons.dev/icons?i=python,bash,html,css,js,git,github&theme=dark" alt="Programming and development tools" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,bash&theme=dark" alt="Full-stack programming and development tools" />
 
-### Security & Operating Systems
+### DevOps, Security & Operating Systems
 
-<img src="https://skillicons.dev/icons?i=linux,kali,docker,vscode&theme=dark" alt="Linux and development environment tools" />
-
-</div>
-
-## `github-stats`
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Lilnyx-exe&show_icons=true&hide_border=true&bg_color=080808&title_color=ff3030&icon_color=ff3030&text_color=eeeeee&ring_color=ff0000" alt="Lilnyx GitHub statistics" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lilnyx-exe&layout=compact&hide_border=true&bg_color=080808&title_color=ff3030&text_color=eeeeee" alt="Most used programming languages" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=Lilnyx-exe&theme=dark&hide_border=true&background=080808&ring=ff0000&fire=ff3030&currStreakLabel=ff3030&sideLabels=eeeeee&dates=999999" alt="GitHub contribution streak" width="70%" />
+<img src="https://skillicons.dev/icons?i=linux,kali,docker,git,github,vscode,postman&theme=dark" alt="DevOps, Linux and security environment tools" />
 
 </div>
 
+---
 
-
-## `// BLOODLINE.exe`
+## 📊 `// TELEMETRY_STATS.exe`
 
 <div align="center">
 
 <img
-  src="https://img.shields.io/badge/LILNYX.exe-BLOODLINE-FF1744?style=for-the-badge&labelColor=050505"
-  alt="Lilnyx Bloodline"
+  src="https://img.shields.io/badge/LILNYX.exe-CYBER%20TELEMETRY%20%7C%20THINKING%20TEAM-FF1744?style=for-the-badge&labelColor=050505"
+  alt="Lilnyx Telemetry"
 />
 
 <br/><br/>
 
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="center" valign="middle" style="padding: 4px;">
+      <img src="https://github-readme-stats.vercel.app/api?username=Lilnyx-exe&show_icons=true&hide_border=false&border_color=ff1744&border_radius=8&bg_color=050505&title_color=ff1744&icon_color=ff1744&text_color=ffffff&ring_color=ff1744&custom_title=Lil%20Nyx's%20GitHub%20Stats" height="175" alt="Lilnyx GitHub statistics" />
+    </td>
+    <td align="center" valign="middle" style="padding: 4px;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lilnyx-exe&layout=compact&hide_border=false&border_color=ff1744&border_radius=8&bg_color=050505&title_color=ff1744&text_color=ffffff" height="175" alt="Most used programming languages" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Lilnyx-exe&theme=dark&hide_border=false&border_color=ff1744&border_radius=8&background=050505&ring=ff1744&fire=ff1744&currStreakLabel=ff1744&sideLabels=ffffff&dates=999999" width="72%" alt="GitHub contribution streak" />
+
+</div>
+
+---
+
+## 🕹️ `// CYBER_ARCADE_ZONE.exe`
+
+<div align="center">
+
+<img
+  src="https://img.shields.io/badge/LILNYX.exe-CYBER%20ARCADE%20ARENA-FF1744?style=for-the-badge&labelColor=050505"
+  alt="Lilnyx Cyber Arcade"
+/>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/COINS-UNLIMITED-ff1744?style=flat-square&labelColor=050505" />
+  <img src="https://img.shields.io/badge/STAGE-SRI%20LANKA-ff1744?style=flat-square&labelColor=050505" />
+  <img src="https://img.shields.io/badge/DIFFICULTY-HARDCORE-ff1744?style=flat-square&labelColor=050505" />
+</p>
+
+<!-- Game 01: Pac-Man Devouring Contributions -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lilnyx-exe/Lilnyx-exe/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lilnyx-exe/Lilnyx-exe/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Lilnyx-exe/Lilnyx-exe/output/pacman-contribution-graph-dark.svg" width="100%">
+</picture>
+
+<br/><br/>
+
+<!-- Game 02: Neon Blood-Red Snake Game -->
 <img
   src="https://raw.githubusercontent.com/Lilnyx-exe/Lilnyx-exe/output/snake-dark.svg"
   alt="Lilnyx Neon Red Snake Animation"
@@ -129,18 +173,19 @@ print(me.current_mission())
 <br/>
 
 <img
-  src="https://img.shields.io/badge/STATUS-DEVOURING%20CONTRIBUTIONS-FF1744?style=flat-square&labelColor=050505"
-  alt="Snake status"
+  src="https://img.shields.io/badge/STATUS-ARCADE%20ENGINES%20OVERCLOCKED-FF1744?style=flat-square&labelColor=050505"
+  alt="Arcade status"
 />
 
 </div>
 
-
+---
 
 ## `mindset`
 
 ```text
 [+] Think independently
+[+] Architect cleanly (Full-Stack Engineering)
 [+] Learn continuously
 [+] Build with purpose
 [+] Test in authorized environments
@@ -148,6 +193,8 @@ print(me.current_mission())
 
 STATUS: ALWAYS LEARNING_
 ```
+
+---
 
 ## `connect`
 
@@ -163,7 +210,7 @@ STATUS: ALWAYS LEARNING_
 
 <br/><br/>
 
-**“The goal isn't to look dangerous. The goal is to understand security.”**
+**“The goal isn't to look dangerous. The goal is to build powerful systems and understand security.”**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,50:8B0000,100:050505&height=120&section=footer" width="100%" />
 
