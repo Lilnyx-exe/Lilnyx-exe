@@ -59,12 +59,12 @@ print(me.current_mission())
 
 ## `current-missions`
 
-- 🚀 Build scalable, responsive Full-Stack applications with clean code architecture.
-- 🛡️ Learn ethical hacking, red teaming, and hands-on penetration testing.
-- 🔍 Master web vulnerabilities, API security, and secure coding standards.
-- 🐍 Develop custom Python tools for security automation, scanning, and intelligence.
-- ⚔️ Practice hands-on labs and CTF challenges on TryHackMe.
-- ⚡ Improve full-stack software engineering and problem-solving skills every single day.
+-  Build scalable, responsive Full-Stack applications with clean code architecture.
+-  Learn ethical hacking, red teaming, and hands-on penetration testing.
+-  Master web vulnerabilities, API security, and secure coding standards.
+-  Develop custom Python tools for security automation, scanning, and intelligence.
+-  Practice hands-on labs and CTF challenges on TryHackMe.
+-  Improve full-stack software engineering and problem-solving skills every single day.
 
 ---
 
@@ -109,7 +109,7 @@ print(me.current_mission())
 
 ---
 
-## 📊 `// TELEMETRY_STATS.exe`
+## `TELEMETRY_STATS.exe`
 
 <div align="center">
 
@@ -138,8 +138,6 @@ print(me.current_mission())
 </div>
 
 ---
-
-## 🕹️ `// PACMAN_ARCADE.exe`
 
 <div align="center">
 
